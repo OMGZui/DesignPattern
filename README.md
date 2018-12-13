@@ -82,6 +82,12 @@ git clone https://github.com/OMGZui/DesignPattern
 composer install
 ```
 
+## 测试
+
+```bash
+vendor/bin/phpunit tests/
+```
+
 ## 资料
 
 - [图说设计模式][2]
