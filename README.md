@@ -16,7 +16,7 @@
   - 抽象方法模式（Factory Method Pattern） [传送门](./Creational/FactoryMethod)
   - 抽象工厂模式（Abstract Factory Pattern） [传送门](./Creational/AbstractFactory)
   - 单例模式（Singleton Pattern）
-  - 建造者模式（Builder Pattern）
+  - 建造者模式（Builder Pattern） [传送门](./Creational/Builder)
   - 原型模式（Prototype Pattern）
 - 结构型模式（Structural）：`这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式`
   - 适配器模式（Adapter Pattern）
