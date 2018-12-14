@@ -16,8 +16,8 @@
   - 建造者模式（Builder Pattern） [传送门](./Creational/Builder)
   - 原型模式（Prototype Pattern） PHP使用`clone`即可实现，目的是减少开销
 - 结构型模式（Structural）：`这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式`
-  - 适配器模式（Adapter Pattern）
-  - 桥接模式（Bridge Pattern）
+  - 适配器模式（Adapter Pattern） [传送门](./Structural/Adapter)
+  - 桥接模式（Bridge Pattern） [传送门](./Structural/Bridge)
   - 过滤器模式（Filter、Criteria Pattern）
   - 装饰器模式（Decorator Pattern）
   - 外观模式（Facade Pattern）
