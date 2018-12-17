@@ -1,4 +1,4 @@
-# 装饰器模式
+# 外观模式
 
 > Facade pattern provides a simplified interface to a complex subsystem.
 
