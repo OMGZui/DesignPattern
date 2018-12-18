@@ -10,6 +10,7 @@ namespace DesignPattern\Behavioral\Command;
 class On implements Command
 {
     protected $bulb;
+
     public function __construct(Bulb $bulb)
     {
         $this->bulb = $bulb;

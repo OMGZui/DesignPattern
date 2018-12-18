@@ -19,10 +19,8 @@ class CommandTest extends TestCase
     public function testCommand()
     {
         $bulb = new Bulb();
-
         $on = new On($bulb);
         $off = new Off($bulb);
-
         $remote = new RemoteControl();
 
         $this->assertEquals($on->exec(), $remote->submit($on));

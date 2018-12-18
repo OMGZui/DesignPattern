@@ -11,7 +11,6 @@ namespace DesignPattern\Behavioral\Command;
 class Off implements Command
 {
     protected $bulb;
-
     public function __construct(Bulb $bulb)
     {
         $this->bulb = $bulb;

@@ -11,11 +11,11 @@ class Bulb
 {
     public function on()
     {
-        return '开灯';
+        return '开灯。';
     }
 
     public function off()
     {
-        return '关灯';
+        return '关灯。';
     }
 }

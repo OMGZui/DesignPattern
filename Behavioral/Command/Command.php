@@ -9,6 +9,7 @@ namespace DesignPattern\Behavioral\Command;
 
 interface Command
 {
+
     function exec();
     function undo();
     function redo();
