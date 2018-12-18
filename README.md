@@ -20,9 +20,9 @@
   - 桥接模式（Bridge Pattern） [传送门](./Structural/Bridge)
   - 过滤器模式（Filter、Criteria Pattern）
   - 装饰器模式（Decorator Pattern） [传送门](./Structural/Decorator)
-  - 外观模式（Facade Pattern）  [传送门](./Structural/Facade)
-  - 享元模式（Flyweight Pattern）  [传送门](./Structural/FlyWeight)
-  - 代理模式（Proxy Pattern）
+  - 外观模式（Facade Pattern） [传送门](./Structural/Facade)
+  - 享元模式（Flyweight Pattern） [传送门](./Structural/FlyWeight)
+  - 代理模式（Proxy Pattern） [传送门](./Structural/Proxy)
 - 行为型模式（Behavioral）：`这些设计模式特别关注对象之间的通信`
   - 责任链模式（Chain of Responsibility Pattern）
   - 命令模式（Command Pattern）
