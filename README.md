@@ -25,7 +25,7 @@
   - 代理模式（Proxy Pattern） [传送门](./Structural/Proxy)
 - 行为型模式（Behavioral）：`这些设计模式特别关注对象之间的通信`
   - 责任链模式（Chain of Responsibility Pattern） [传送门](./Behavioral/ChainOfResponsibility)
-  - 命令模式（Command Pattern）
+  - 命令模式（Command Pattern） [传送门](./Behavioral/Command)
   - 解释器模式（Interpreter Pattern）
   - 迭代器模式（Iterator Pattern）
   - 中介者模式（Mediator Pattern）
