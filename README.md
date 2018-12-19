@@ -28,7 +28,7 @@
   - 迭代器模式（Iterator Pattern） [传送门](./Behavioral/Iterator)
   - 备忘录模式（Memento Pattern）  [传送门](./Behavioral/Memento)
   - 观察者模式（Observer Pattern） [传送门](./Behavioral/Observer)
-  - 状态模式（State Pattern）
+  - 状态模式（State Pattern） [传送门](./Behavioral/State)
   - 策略模式（Strategy Pattern） [传送门](./Behavioral/Strategy)
   - 访问者模式（Visitor Pattern） [传送门](./Behavioral/Visitor)
 
