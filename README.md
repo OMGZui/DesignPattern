@@ -26,9 +26,8 @@
   - 责任链模式（Chain of Responsibility Pattern） [传送门](./Behavioral/ChainOfResponsibility)
   - 命令模式（Command Pattern） [传送门](./Behavioral/Command)
   - 迭代器模式（Iterator Pattern） [传送门](./Behavioral/Iterator)
-  - 中介者模式（Mediator Pattern）
-  - 备忘录模式（Memento Pattern）
-  - 观察者模式（Observer Pattern）
+  - 备忘录模式（Memento Pattern）  [传送门](./Behavioral/Memento)
+  - 观察者模式（Observer Pattern） [传送门](./Behavioral/Observer)
   - 状态模式（State Pattern）
   - 策略模式（Strategy Pattern）
   - 访问者模式（Visitor Pattern）
