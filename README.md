@@ -29,7 +29,7 @@
   - 备忘录模式（Memento Pattern）  [传送门](./Behavioral/Memento)
   - 观察者模式（Observer Pattern） [传送门](./Behavioral/Observer)
   - 状态模式（State Pattern）
-  - 策略模式（Strategy Pattern）
+  - 策略模式（Strategy Pattern） [传送门](./Behavioral/Strategy)
   - 访问者模式（Visitor Pattern） [传送门](./Behavioral/Visitor)
 
 ## 三、设计模式的六大原则
