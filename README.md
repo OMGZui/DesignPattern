@@ -30,7 +30,7 @@
   - 观察者模式（Observer Pattern） [传送门](./Behavioral/Observer)
   - 状态模式（State Pattern）
   - 策略模式（Strategy Pattern）
-  - 访问者模式（Visitor Pattern）
+  - 访问者模式（Visitor Pattern） [传送门](./Behavioral/Visitor)
 
 ## 三、设计模式的六大原则
 
