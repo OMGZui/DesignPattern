@@ -31,6 +31,7 @@
   - 状态模式（State Pattern） [传送门](./Behavioral/State)
   - 策略模式（Strategy Pattern） [传送门](./Behavioral/Strategy)
   - 访问者模式（Visitor Pattern） [传送门](./Behavioral/Visitor)
+  - 模板方法模式（Template Method Pattern） [传送门](./Behavioral/TemplateMethod)
 
 ## 三、设计模式的六大原则
 
