@@ -1,4 +1,4 @@
-# 观察者模式
+# 访问者模式
 
 > Visitor pattern lets you add further operations to objects without having to modify them.
 
@@ -6,7 +6,7 @@
 
 ## 楼主说
 
-观察者模式是将逻辑和访问对象分离，符合`开闭原则`
+访问者模式是将逻辑和访问对象分离，符合`开闭原则`
 
 ## UML
 
